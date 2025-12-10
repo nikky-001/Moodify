@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+deepface
+pandas
+plotly
+spotipy
+matplotlib
+tensorflow
+keras
+numpy
