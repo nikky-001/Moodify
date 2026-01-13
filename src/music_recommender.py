@@ -1,5 +1,3 @@
-print("🚀 recommender.py started")
-
 import pandas as pd
 import random
 
@@ -35,13 +33,4 @@ def recommend_song(detected_emotion):
     }
 
 
-# TESTING
-if __name__ == "__main__":
-    test_emotion = "happy"
-    recommendation = recommend_song(test_emotion)
 
-    if recommendation:
-        print("🎵 Recommended Song:")
-        print(recommendation)
-    else:
-        print("No song found")
