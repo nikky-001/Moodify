@@ -1,0 +1,41 @@
+song_id,song_name,artist,language,primary_mood,secondary_mood,energy_level,genre,spotify_query
+1,Chaleya,Arijit Singh,Hindi,romantic,feel_good,medium,Bollywood,Chaleya Arijit Singh
+2,Bulleya,Amit Mishra,Hindi,intense,passionate,high,Bollywood,Bulleya Amit Mishra
+3,Enna Sona,Arijit Singh,Hindi,romantic,calm,low,Bollywood,Enna Sona Arijit Singh
+4,Nimm Thalle,Jordan Sandhu,Punjabi,calm,emotional,low,Punjabi Folk,Nimm Thalle Jordan Sandhu
+5,Samjhawan,Arijit Singh,Hindi,sad,emotional,low,Bollywood,Samjhawan Arijit Singh
+6,Chann Sitare,Ammy Virk,Punjabi,romantic,soft,medium,Punjabi Pop,Chann Sitare Ammy Virk
+7,Sunn Raha Hai,Ankit Tiwari,Hindi,sad,heartbroken,low,Bollywood,Sunn Raha Hai Ankit Tiwari
+8,Raanjhanaa,A.R. Rahman,Hindi,emotional,longing,medium,Bollywood,Raanjhanaa A R Rahman
+9,Khamoshiyan,Arijit Singh,Hindi,sad,lonely,low,Bollywood,Khamoshiyan Arijit Singh
+10,Hamari Adhuri Kahani,Arijit Singh,Hindi,sad,tragic,low,Bollywood,Hamari Adhuri Kahani Arijit Singh
+11,Kaun Tujhe,Palak Muchhal,Hindi,romantic,emotional,low,Bollywood,Kaun Tujhe Palak Muchhal
+12,Soch Na Sake,Arijit Singh,Hindi,romantic,emotional,medium,Bollywood,Soch Na Sake Arijit Singh
+13,Duji Vaari Pyaar,Sunanda Sharma,Punjabi,sad,breakup,low,Punjabi Pop,Duji Vaari Pyaar Sunanda Sharma
+14,Rang Layega,Ankit Tiwari,Hindi,hopeful,inspirational,medium,Bollywood,Rang Layega Ankit Tiwari
+15,Pehli Dafa,Atif Aslam,Hindi,romantic,soft,low,Bollywood,Pehli Dafa Atif Aslam
+16,Udh Di Phiran,Sunanda Sharma,Punjabi,happy,free_spirit,medium,Punjabi Pop,Udh Di Phiran Sunanda Sharma
+17,Humsafar,Akhil Sachdeva,Hindi,romantic,warm,medium,Bollywood,Humsafar Akhil Sachdeva
+18,Maiyya Mainu,Sachet Tandon,Hindi,emotional,devotional,low,Bollywood,Maiyya Mainu Sachet Tandon
+19,Khaab,Akhil,Punjabi,romantic,dreamy,low,Punjabi Pop,Khaab Akhil
+20,Khushiyaan,Ammy Virk,Punjabi,happy,peaceful,medium,Punjabi Pop,Khushiyaan Ammy Virk
+21,Bandeya,Arijit Singh,Hindi,emotional,spiritual,low,Bollywood,Bandeya Arijit Singh
+22,Ik Vaari Aa,Arijit Singh,Hindi,romantic,longing,medium,Bollywood,Ik Vaari Aa Arijit Singh
+23,Fikar,Roshan Prince,Punjabi,romantic,concerned,medium,Punjabi Pop,Fikar Roshan Prince
+24,Husn,Anuv Jain,Hindi,romantic,soft,low,Indie,Husn Anuv Jain
+25,Udaariyan,Satinder Sartaaj,Punjabi,hopeful,philosophical,medium,Punjabi Folk,Udaariyan Satinder Sartaaj
+26,Ishq Di Baajiyan,Diljit Dosanjh,Punjabi,romantic,playful,medium,Punjabi Pop,Ishq Di Baajiyan Diljit Dosanjh
+27,Ambarsariya,Sona Mohapatra,Hindi,happy,carefree,medium,Bollywood,Ambarsariya Sona Mohapatra
+28,Kar Gayi Chull,Badshah,Hindi,energetic,party,high,Bollywood,Kar Gayi Chull Badshah
+29,Kaun Nachdi,Guru Randhawa,Punjabi,energetic,dance,high,Punjabi Pop,Kaun Nachdi Guru Randhawa
+30,Gallan Goodiyan,Yashita Sharma,Hindi,happy,celebratory,high,Bollywood,Gallan Goodiyan
+31,Nachange Saari Raat,Meet Bros,Hindi,energetic,party,high,Bollywood,Nachange Saari Raat Meet Bros
+32,Kala Chashma,Badshah,Hindi,energetic,stylish,high,Bollywood,Kala Chashma Badshah
+33,Nashe Si Chadh Gayi,Arijit Singh,Hindi,happy,carefree,medium,Bollywood,Nashe Si Chadh Gayi Arijit Singh
+34,Matargasti,Mohit Chauhan,Hindi,happy,free_spirit,medium,Bollywood,Matargasti Mohit Chauhan
+35,Sone Rang De Ranjheya,B Praak,Punjabi,romantic,emotional,low,Punjabi Pop,Sone Rang De Ranjheya B Praak
+36,Ikko Mikke,Satinder Sartaaj,Punjabi,emotional,philosophical,low,Punjabi Folk,Ikko Mikke Satinder Sartaaj
+37,Daru Badnaam,Kamal Kahlon,Punjabi,energetic,party,high,Punjabi Pop,Daru Badnaam Kamal Kahlon
+38,Raat Di Gedi,Diljit Dosanjh,Punjabi,happy,fun,medium,Punjabi Pop,Raat Di Gedi Diljit Dosanjh
+39,5 Taara,Diljit Dosanjh,Punjabi,energetic,celebration,high,Punjabi Pop,5 Taara Diljit Dosanjh
+40,Finding Her,Kushagra,Punjabi,romantic,soft,low,Indie,Finding Her Kushagra
