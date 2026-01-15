@@ -1,36 +1,32 @@
 import pandas as pd
-import random
 
 # Load dataset
 df = pd.read_csv(r"C:\Users\Dell\Desktop\Moodify\data\songs.csv")
-print("Dataset loaded:", len(df))
 
 
-# Map detected emotions to dataset moods
-emotion_to_mood = {
-    "happy": ["happy", "energetic"],
-    "sad": ["sad", "emotional"],
-    "neutral": ["calm", "romantic"],
-    "angry": ["energetic"],
-    "surprise": ["happy"]
-}
+def generate_spotify_link(song_name, artist):
+    query = f"{song_name} {artist}".replace(" ", "%20")
+    return f"https://open.spotify.com/search/{query}"
 
-def recommend_song(detected_emotion):
-    moods = emotion_to_mood.get(detected_emotion, ["calm"])
+def recommend_song(emotion):
+    emotion = emotion.lower()
 
-    filtered_songs = df[df["primary_mood"].isin(moods)]
+    filtered = df[df["primary_mood"].str.lower() == emotion]
 
-    if filtered_songs.empty:
+    if filtered.empty:
         return None
 
-    song = filtered_songs.sample(1).iloc[0]
+    song = filtered.sample(1).iloc[0]
+
+    spotify_link = generate_spotify_link(song["song_name"], song["artist"])
 
     return {
         "song_name": song["song_name"],
         "artist": song["artist"],
         "mood": song["primary_mood"],
-        "spotify_query": song["spotify_query"]
+        "spotify_link": spotify_link 
     }
+
 
 
 
